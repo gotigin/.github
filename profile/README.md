@@ -24,7 +24,7 @@
 | Brand | What it is | Site / repos |
 | --- | --- | --- |
 | **Kumkaj** | Business operating systems — Khaynjo, Moklanjo, Kirano, Tabiyat | [kumkaj.com](https://kumkaj.com) · [`gotigin/kumkaj`](https://github.com/gotigin/kumkaj) |
-| **Wadhu** | Reusable tools — SMS Gateway, Wadhu Connect | [wadhu.com](https://wadhu.com) · [`gotigin/wadhu`](https://github.com/gotigin/wadhu) |
+| **Wadhu** | *More* — reusable tools, utils, and apps other Gotigin products use | [wadhu.com](https://wadhu.com) · [`gotigin/wadhu`](https://github.com/gotigin/wadhu) |
 | **Ghal Bol** | Communication products — encrypted messenger | [ghalbol.com](https://ghalbol.com) · [`gotigin/ghalbol`](https://github.com/gotigin/ghalbol) |
 
 ## Public repos
