@@ -6,8 +6,10 @@
 
 <p align="center"><strong>Where Technology Meets Discovery</strong></p>
 
+<p align="center">Memon for <em>find it</em> · go-tee-geen</p>
+
 <p align="center">
-  Company house mark of <strong>GOTIGIN SOFTWARE &amp; HARDWARE PRIVATE LIMITED</strong><br/>
+  Trademark of <strong>GOTIGIN SOFTWARE &amp; HARDWARE PRIVATE LIMITED</strong><br/>
   <a href="https://gotigin.com">gotigin.com</a>
   ·
   <a href="https://gotigin.com/privacy">Privacy</a>
@@ -24,7 +26,7 @@
 | Brand | What it is | Site / repos |
 | --- | --- | --- |
 | **Kumkaj** | Business operating systems — Khaynjo, Moklanjo, Kirano, Tabiyat | [kumkaj.com](https://kumkaj.com) · [`gotigin/kumkaj`](https://github.com/gotigin/kumkaj) |
-| **Wadhu** | *More* — reusable tools, utils, and apps other Gotigin products use | [wadhu.com](https://wadhu.com) · [`gotigin/wadhu`](https://github.com/gotigin/wadhu) |
+| **Wadhu** | Memon *more* — Tools · Apps · More. Reusable tools, utils, and apps. Not a messenger. Products: SMS Gateway, SMS Relay, Wadhu Connect | [wadhu.com](https://wadhu.com) · [`gotigin/wadhu`](https://github.com/gotigin/wadhu) |
 | **Ghal Bol** | Communication products — encrypted messenger | [ghalbol.com](https://ghalbol.com) · [`gotigin/ghalbol`](https://github.com/gotigin/ghalbol) |
 
 ## Public repos
@@ -33,7 +35,7 @@
 | --- | --- |
 | [`domain`](https://github.com/gotigin/domain) | Company website and legal pages for **gotigin.com** |
 | [`kumkaj`](https://github.com/gotigin/kumkaj) | Kumkaj BOS apps (Makepad 2) |
-| [`wadhu`](https://github.com/gotigin/wadhu) | Wadhu tools, SMS Gateway, Connect |
+| [`wadhu`](https://github.com/gotigin/wadhu) | Wadhu tools: SMS Gateway, SMS Relay, Wadhu Connect |
 | [`ghalbol`](https://github.com/gotigin/ghalbol) | Ghal Bol communication products |
 
 ## Company
