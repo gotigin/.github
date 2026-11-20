@@ -41,7 +41,7 @@
 ## Company
 
 **GOTIGIN SOFTWARE & HARDWARE PRIVATE LIMITED**  
-Rajkot, Gujarat, India · [mearaj@gotigin.com](mailto:mearaj@gotigin.com)
+Dhoraji, Rajkot, Gujarat, India · [mearaj@gotigin.com](mailto:mearaj@gotigin.com)
 
 Trademark / house mark: **Gotigin** (GTG).  
-Product brands keep their own domains and privacy policies; company verifiers use [gotigin.com](https://gotigin.com).
+Product brands keep their own domains and privacy policies. Company pages are at [gotigin.com](https://gotigin.com).
