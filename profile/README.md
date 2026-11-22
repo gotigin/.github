@@ -14,20 +14,49 @@
   ·
   <a href="https://gotigin.com/privacy">Privacy</a>
   ·
-  <a href="https://gotigin.com/help">Help</a>
+  <a href="https://gotigin.com/terms">Terms</a>
+  ·
+  <a href="https://gotigin.com/cancellation">Cancellation</a>
+  ·
+  <a href="https://gotigin.com/support">Support</a>
   ·
   <a href="https://gotigin.com/about">About</a>
 </p>
 
 ---
 
-## Brands
+## Brands and products
 
-| Brand | What it is | Site / repos |
+Identity order: **Gotigin** (trademark) → **GOTIGIN SOFTWARE &amp; HARDWARE PRIVATE LIMITED** (company) → brand → product.
+
+| Brand | What it is | Site |
 | --- | --- | --- |
-| **Kumkaj** | Business operating systems — Khaynjo, Moklanjo, Kirano, Tabiyat | [kumkaj.com](https://kumkaj.com) · [`gotigin/kumkaj`](https://github.com/gotigin/kumkaj) |
-| **Wadhu** | Memon *more* — Tools · Apps · More. Reusable tools, utils, and apps. Not a messenger. Products: SMS Gateway, SMS Relay, Wadhu Connect | [wadhu.com](https://wadhu.com) · [`gotigin/wadhu`](https://github.com/gotigin/wadhu) |
-| **Ghal Bol** | Communication products — encrypted messenger | [ghalbol.com](https://ghalbol.com) · [`gotigin/ghalbol`](https://github.com/gotigin/ghalbol) |
+| **Kumkaj** | Business operating systems | [kumkaj.com](https://kumkaj.com) |
+| **Wadhu** | Memon *more* — Tools · Apps · More (not a messenger) | [wadhu.com](https://wadhu.com) |
+| **Ghal Bol** | Encrypted messenger | [ghalbol.com](https://ghalbol.com) |
+
+### Kumkaj products
+
+| Product | Role | Site |
+| --- | --- | --- |
+| **Khaynjo** | Restaurant OS — tables, KOT, bills, day close | [khaynjo.com](https://khaynjo.com) |
+| **Moklanjo** | Courier desk — booking, parties, day book | [moklanjo.com](https://moklanjo.com) |
+| **Kirano** | Kirana — catalogue, stock, khata, GST cash memo | [kirano.shop](https://kirano.shop) |
+| **Tabiyat** | Pharmacy counter — batch, expiry, stock, GST bills | [tabiyat.shop](https://tabiyat.shop) |
+
+### Wadhu products
+
+| Product | Role | Site |
+| --- | --- | --- |
+| **SMS Gateway** | Android-first SIM messaging | [wadhu.com](https://wadhu.com) |
+| **SMS Relay** | Optional internet plane for SMS | [wadhu.com](https://wadhu.com) |
+| **Wadhu Connect** | WhatsApp Cloud API bridge | [connect.wadhu.com](https://connect.wadhu.com/) |
+
+### Ghal Bol products
+
+| Product | Role | Site |
+| --- | --- | --- |
+| **Ghal Bol** | Encrypted messenger | [ghalbol.com](https://ghalbol.com) |
 
 ## Public repos
 
@@ -41,7 +70,7 @@
 ## Company
 
 **GOTIGIN SOFTWARE & HARDWARE PRIVATE LIMITED**  
-Dhoraji, Rajkot, Gujarat, India · [mearaj@gotigin.com](mailto:mearaj@gotigin.com)
+Dhoraji, Rajkot, Gujarat, India · [support@gotigin.com](mailto:support@gotigin.com)
 
 Trademark / house mark: **Gotigin** (GTG).  
 Product brands keep their own domains and privacy policies. Company pages are at [gotigin.com](https://gotigin.com).
