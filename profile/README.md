@@ -70,7 +70,9 @@ Identity order: **Gotigin** (trademark) → **GOTIGIN SOFTWARE &amp; HARDWARE PR
 ## Company
 
 **GOTIGIN SOFTWARE & HARDWARE PRIVATE LIMITED**  
-Dhoraji, Rajkot, Gujarat, India · [support@gotigin.com](mailto:support@gotigin.com)
+C/O Mearaj AB, Gosiya Manzil, Darbargadh, Dhoraji, Rajkot, Gujarat 360410, India  
+CIN U62011GJ2026PTC179660 · GSTIN 24AANCG1628G1ZP  
+[support@gotigin.com](mailto:support@gotigin.com)
 
 Trademark / house mark: **Gotigin** (GTG).  
 Product brands keep their own domains and privacy policies. Company pages are at [gotigin.com](https://gotigin.com).
