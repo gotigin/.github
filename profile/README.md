@@ -9,7 +9,8 @@
 <p align="center">Memon for <em>find it</em> · go-tee-geen</p>
 
 <p align="center">
-  Trademark of <strong>GOTIGIN SOFTWARE &amp; HARDWARE PRIVATE LIMITED</strong><br/>
+  Gotigin is a trademark.<br/>
+  <strong>GOTIGIN SOFTWARE &amp; HARDWARE PRIVATE LIMITED</strong> is authorized to use, operate under, and represent it.<br/>
   <a href="https://gotigin.com">gotigin.com</a>
   ·
   <a href="https://gotigin.com/privacy">Privacy</a>
@@ -74,5 +75,5 @@ C/O Mearaj AB, Gosiya Manzil, Darbargadh, Dhoraji, Rajkot, Gujarat 360410, India
 CIN U62011GJ2026PTC179660 · GSTIN 24AANCG1628G1ZP  
 [support@gotigin.com](mailto:support@gotigin.com)
 
-Trademark / house mark: **Gotigin** (GTG).  
+Trademark / house mark: **Gotigin** (GTG). The company is authorized to use, operate under, and represent it.  
 Product brands keep their own domains and privacy policies. Company pages are at [gotigin.com](https://gotigin.com).
